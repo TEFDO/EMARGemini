@@ -1,0 +1,632 @@
+15:28:46 [Başlangıç] Managed: 1 MB | Process: 148 MB
+15:28:47 [Kapak hazırlandı] Managed: 1 MB | Process: 157 MB
+15:28:47 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 157 MB
+15:28:47 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 158 MB
+15:28:47 [Header/Footer hazırlandı] Managed: 1 MB | Process: 158 MB
+15:28:47 [Makine görselleri eklendi] Managed: 1 MB | Process: 158 MB
+15:28:47 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 159 MB
+15:28:49 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 219 MB
+15:28:49 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 219 MB
+15:28:50 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 283 MB
+15:28:50 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 283 MB
+15:32:05 [Başlangıç] Managed: 1 MB | Process: 151 MB
+15:32:05 [Kapak hazırlandı] Managed: 1 MB | Process: 160 MB
+15:32:05 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 160 MB
+15:32:05 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 161 MB
+15:32:05 [Header/Footer hazırlandı] Managed: 1 MB | Process: 161 MB
+15:32:05 [Makine görselleri eklendi] Managed: 1 MB | Process: 162 MB
+15:32:05 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 162 MB
+15:32:07 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 228 MB
+15:32:07 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 228 MB
+15:32:09 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 293 MB
+15:32:09 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 293 MB
+15:39:52 [Başlangıç] Managed: 1 MB | Process: 196 MB
+15:39:52 [Kapak hazırlandı] Managed: 2 MB | Process: 196 MB
+15:39:52 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 195 MB
+15:39:52 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 196 MB
+15:39:52 [Header/Footer hazırlandı] Managed: 2 MB | Process: 196 MB
+15:39:52 [Makine görselleri eklendi] Managed: 2 MB | Process: 197 MB
+15:39:52 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 200 MB
+15:39:54 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 241 MB
+15:39:54 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 241 MB
+15:39:56 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 309 MB
+15:39:56 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 309 MB
+16:13:14 [Başlangıç] Managed: 1 MB | Process: 162 MB
+16:13:14 [Kapak hazırlandı] Managed: 1 MB | Process: 173 MB
+16:13:14 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 173 MB
+16:13:14 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 173 MB
+16:13:14 [Header/Footer hazırlandı] Managed: 1 MB | Process: 174 MB
+16:13:14 [Makine görselleri eklendi] Managed: 1 MB | Process: 175 MB
+16:13:14 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 175 MB
+16:13:17 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 240 MB
+16:13:17 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 240 MB
+16:13:17 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 240 MB
+16:13:20 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 296 MB
+16:13:20 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 296 MB
+16:18:13 [Başlangıç] Managed: 1 MB | Process: 253 MB
+16:18:13 [Kapak hazırlandı] Managed: 1 MB | Process: 253 MB
+16:18:13 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 253 MB
+16:18:13 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 253 MB
+16:18:13 [Header/Footer hazırlandı] Managed: 2 MB | Process: 253 MB
+16:18:13 [Makine görselleri eklendi] Managed: 2 MB | Process: 253 MB
+16:18:13 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 254 MB
+16:18:15 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 209 MB
+16:18:15 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 209 MB
+16:18:15 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 209 MB
+16:18:16 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 297 MB
+16:18:17 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 297 MB
+16:37:23 [Başlangıç] Managed: 2 MB | Process: 178 MB
+16:37:24 [Kapak hazırlandı] Managed: 2 MB | Process: 187 MB
+16:37:24 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 187 MB
+16:37:24 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 187 MB
+16:37:24 [Header/Footer hazırlandı] Managed: 2 MB | Process: 187 MB
+16:37:24 [Makine görselleri eklendi] Managed: 2 MB | Process: 188 MB
+16:37:24 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 189 MB
+16:37:26 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 3 MB | Process: 220 MB
+16:37:26 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 3 MB | Process: 220 MB
+16:37:26 [AltChunk ile birleştirme başlıyor] Managed: 3 MB | Process: 220 MB
+16:37:28 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 3 MB | Process: 308 MB
+16:37:28 [Temp dosyalar silindi (İşlem bitti)] Managed: 3 MB | Process: 308 MB
+16:38:04 [Başlangıç] Managed: 2 MB | Process: 306 MB
+16:38:04 [Kapak hazırlandı] Managed: 2 MB | Process: 306 MB
+16:38:04 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 306 MB
+16:38:04 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 284 MB
+16:38:04 [Header/Footer hazırlandı] Managed: 3 MB | Process: 284 MB
+16:38:04 [Makine görselleri eklendi] Managed: 3 MB | Process: 261 MB
+16:38:04 [Otomatik tablolar eklendi] Managed: 3 MB | Process: 261 MB
+16:38:06 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 3 MB | Process: 221 MB
+16:38:06 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 3 MB | Process: 221 MB
+16:39:31 [Başlangıç] Managed: 3 MB | Process: 215 MB
+16:39:31 [Kapak hazırlandı] Managed: 3 MB | Process: 218 MB
+16:39:31 [Revizyon Tablosu hazırlandı] Managed: 3 MB | Process: 218 MB
+16:39:31 [İncelenen Dökümanlar hazırlandı] Managed: 3 MB | Process: 218 MB
+16:39:31 [Header/Footer hazırlandı] Managed: 3 MB | Process: 218 MB
+16:39:31 [Makine görselleri eklendi] Managed: 3 MB | Process: 219 MB
+16:39:31 [Otomatik tablolar eklendi] Managed: 3 MB | Process: 219 MB
+16:39:33 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 3 MB | Process: 248 MB
+16:39:33 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 3 MB | Process: 249 MB
+16:39:33 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 3 MB | Process: 218 MB
+16:39:33 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 3 MB | Process: 216 MB
+16:39:33 [AltChunk ile birleştirme başlıyor] Managed: 3 MB | Process: 216 MB
+16:39:35 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 3 MB | Process: 323 MB
+16:39:35 [Temp dosyalar silindi (İşlem bitti)] Managed: 3 MB | Process: 323 MB
+16:45:30 [Başlangıç] Managed: 1 MB | Process: 141 MB
+16:45:30 [Kapak hazırlandı] Managed: 1 MB | Process: 151 MB
+16:45:30 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 151 MB
+16:45:30 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 151 MB
+16:45:30 [Header/Footer hazırlandı] Managed: 1 MB | Process: 152 MB
+16:45:30 [Makine görselleri eklendi] Managed: 1 MB | Process: 152 MB
+16:45:30 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 152 MB
+16:45:32 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 237 MB
+16:45:32 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 237 MB
+16:45:32 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 237 MB
+16:45:32 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 237 MB
+16:45:33 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 211 MB
+16:45:33 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 186 MB
+16:45:33 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 184 MB
+16:45:33 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 184 MB
+16:45:33 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 185 MB
+16:45:33 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 185 MB
+16:45:33 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 185 MB
+16:45:33 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 185 MB
+16:45:33 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 185 MB
+16:45:35 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 295 MB
+16:45:35 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 295 MB
+16:46:45 [Başlangıç] Managed: 1 MB | Process: 289 MB
+16:46:45 [Kapak hazırlandı] Managed: 1 MB | Process: 289 MB
+16:46:45 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 289 MB
+16:46:45 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 289 MB
+16:46:45 [Header/Footer hazırlandı] Managed: 1 MB | Process: 262 MB
+16:46:45 [Makine görselleri eklendi] Managed: 1 MB | Process: 233 MB
+16:46:45 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 233 MB
+16:46:47 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 246 MB
+16:46:47 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 246 MB
+16:46:47 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 220 MB
+16:46:47 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 220 MB
+16:46:47 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 220 MB
+16:46:47 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 195 MB
+16:46:47 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 199 MB
+16:46:47 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 199 MB
+16:46:47 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 198 MB
+16:46:48 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 198 MB
+16:46:48 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 198 MB
+16:46:48 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 198 MB
+16:46:48 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 198 MB
+16:46:49 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 318 MB
+16:46:49 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 318 MB
+16:50:46 [Başlangıç] Managed: 1 MB | Process: 143 MB
+16:50:46 [Kapak hazırlandı] Managed: 1 MB | Process: 152 MB
+16:50:46 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 152 MB
+16:50:46 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 152 MB
+16:50:46 [Header/Footer hazırlandı] Managed: 1 MB | Process: 153 MB
+16:50:46 [Makine görselleri eklendi] Managed: 1 MB | Process: 153 MB
+16:50:46 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 154 MB
+16:50:48 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 220 MB
+16:50:48 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 220 MB
+16:50:48 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 220 MB
+16:50:48 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 195 MB
+16:50:48 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 195 MB
+16:50:48 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 168 MB
+16:50:49 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 168 MB
+16:50:49 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 169 MB
+16:50:49 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 169 MB
+16:50:49 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 169 MB
+16:50:49 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 169 MB
+16:50:49 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 169 MB
+16:50:49 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 169 MB
+16:50:51 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 290 MB
+16:50:51 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 290 MB
+16:52:56 [Başlangıç] Managed: 1 MB | Process: 146 MB
+16:52:56 [Kapak hazırlandı] Managed: 1 MB | Process: 155 MB
+16:52:56 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 155 MB
+16:52:56 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 155 MB
+16:52:57 [Header/Footer hazırlandı] Managed: 1 MB | Process: 155 MB
+16:52:57 [Makine görselleri eklendi] Managed: 1 MB | Process: 156 MB
+16:52:57 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 156 MB
+16:52:59 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 1 MB | Process: 201 MB
+16:52:59 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 201 MB
+16:52:59 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 171 MB
+16:52:59 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 171 MB
+16:52:59 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 171 MB
+16:52:59 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 171 MB
+16:52:59 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 172 MB
+16:52:59 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 172 MB
+16:52:59 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 172 MB
+16:53:00 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 173 MB
+16:53:00 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 173 MB
+16:53:00 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 173 MB
+16:53:00 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 173 MB
+16:53:01 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 306 MB
+16:53:01 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 306 MB
+16:54:45 [Başlangıç] Managed: 1 MB | Process: 266 MB
+16:54:45 [Kapak hazırlandı] Managed: 2 MB | Process: 266 MB
+16:54:45 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 266 MB
+16:54:45 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 266 MB
+16:54:45 [Header/Footer hazırlandı] Managed: 2 MB | Process: 266 MB
+16:54:46 [Makine görselleri eklendi] Managed: 2 MB | Process: 267 MB
+16:54:46 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 267 MB
+16:54:47 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 228 MB
+16:54:47 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 228 MB
+16:54:48 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 205 MB
+16:54:48 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 205 MB
+16:54:48 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 205 MB
+16:54:48 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 199 MB
+16:54:48 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 199 MB
+16:54:48 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 200 MB
+16:54:48 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 200 MB
+16:54:48 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 200 MB
+16:54:48 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 200 MB
+16:54:48 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 200 MB
+16:54:48 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 200 MB
+16:54:50 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 308 MB
+16:54:50 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 308 MB
+17:12:16 [Başlangıç] Managed: 2 MB | Process: 196 MB
+17:12:16 [Kapak hazırlandı] Managed: 2 MB | Process: 202 MB
+17:12:16 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 202 MB
+17:12:16 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 202 MB
+17:12:16 [Header/Footer hazırlandı] Managed: 3 MB | Process: 202 MB
+17:12:17 [Makine görselleri eklendi] Managed: 3 MB | Process: 203 MB
+17:12:17 [Otomatik tablolar eklendi] Managed: 3 MB | Process: 204 MB
+17:12:18 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 3 MB | Process: 231 MB
+17:12:18 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 3 MB | Process: 232 MB
+17:12:19 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 3 MB | Process: 201 MB
+17:12:19 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 3 MB | Process: 201 MB
+17:12:19 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 3 MB | Process: 201 MB
+17:12:19 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 3 MB | Process: 202 MB
+17:12:19 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 3 MB | Process: 205 MB
+17:12:19 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 3 MB | Process: 205 MB
+17:12:19 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 3 MB | Process: 205 MB
+17:12:19 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 3 MB | Process: 205 MB
+17:12:19 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 3 MB | Process: 204 MB
+17:12:19 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 3 MB | Process: 205 MB
+17:12:19 [AltChunk ile birleştirme başlıyor] Managed: 3 MB | Process: 205 MB
+17:12:21 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 3 MB | Process: 333 MB
+17:12:21 [Temp dosyalar silindi (İşlem bitti)] Managed: 3 MB | Process: 333 MB
+17:17:58 [Başlangıç] Managed: 1 MB | Process: 147 MB
+17:17:59 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+17:17:59 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 157 MB
+17:17:59 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:17:59 [Header/Footer hazırlandı] Managed: 1 MB | Process: 157 MB
+17:17:59 [Makine görselleri eklendi] Managed: 1 MB | Process: 158 MB
+17:17:59 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 158 MB
+17:18:01 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 225 MB
+17:18:01 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 225 MB
+17:18:01 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 199 MB
+17:18:01 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 199 MB
+17:18:02 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 174 MB
+17:18:02 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 172 MB
+17:18:02 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 178 MB
+17:18:02 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 178 MB
+17:18:04 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 300 MB
+17:18:04 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 300 MB
+17:23:13 [Başlangıç] Managed: 1 MB | Process: 325 MB
+17:23:14 [Kapak hazırlandı] Managed: 1 MB | Process: 299 MB
+17:23:14 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 299 MB
+17:23:14 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 299 MB
+17:23:14 [Header/Footer hazırlandı] Managed: 2 MB | Process: 299 MB
+17:23:14 [Makine görselleri eklendi] Managed: 2 MB | Process: 271 MB
+17:23:14 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 271 MB
+17:23:16 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 258 MB
+17:23:16 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 258 MB
+17:23:16 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 258 MB
+17:23:16 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 204 MB
+17:23:16 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 204 MB
+17:23:16 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 204 MB
+17:23:16 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 204 MB
+17:23:16 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 205 MB
+17:23:16 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 205 MB
+17:23:16 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 205 MB
+17:23:16 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 205 MB
+17:23:16 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 205 MB
+17:23:16 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 205 MB
+17:23:18 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 306 MB
+17:23:19 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 306 MB
+17:32:46 [Başlangıç] Managed: 1 MB | Process: 144 MB
+17:32:46 [Kapak hazırlandı] Managed: 1 MB | Process: 153 MB
+17:32:46 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 153 MB
+17:32:46 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 154 MB
+17:32:46 [Header/Footer hazırlandı] Managed: 1 MB | Process: 154 MB
+17:32:46 [Makine görselleri eklendi] Managed: 1 MB | Process: 154 MB
+17:32:46 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 155 MB
+17:32:49 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 222 MB
+17:32:49 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 222 MB
+17:32:49 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 193 MB
+17:32:49 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 172 MB
+17:32:49 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:49 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:49 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:49 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:50 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:50 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:50 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:50 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 176 MB
+17:32:50 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 176 MB
+17:32:52 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 309 MB
+17:32:52 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 309 MB
+17:34:43 [Başlangıç] Managed: 1 MB | Process: 149 MB
+17:34:43 [Kapak hazırlandı] Managed: 1 MB | Process: 157 MB
+17:34:43 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 158 MB
+17:34:43 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 158 MB
+17:34:43 [Header/Footer hazırlandı] Managed: 1 MB | Process: 158 MB
+17:34:43 [Makine görselleri eklendi] Managed: 1 MB | Process: 159 MB
+17:34:43 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 159 MB
+17:34:46 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 225 MB
+17:34:46 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 225 MB
+17:34:46 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 226 MB
+17:34:46 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 178 MB
+17:34:46 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 178 MB
+17:34:46 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 178 MB
+17:34:46 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 178 MB
+17:34:46 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 178 MB
+17:34:46 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 179 MB
+17:34:46 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 179 MB
+17:34:47 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 179 MB
+17:34:47 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 179 MB
+17:34:47 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 179 MB
+17:34:49 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 302 MB
+17:34:49 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 302 MB
+17:38:16 [Başlangıç] Managed: 1 MB | Process: 303 MB
+17:38:16 [Kapak hazırlandı] Managed: 1 MB | Process: 303 MB
+17:38:16 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 303 MB
+17:38:17 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 303 MB
+17:38:17 [Header/Footer hazırlandı] Managed: 1 MB | Process: 277 MB
+17:38:17 [Makine görselleri eklendi] Managed: 1 MB | Process: 249 MB
+17:38:17 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 249 MB
+17:38:19 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 236 MB
+17:38:19 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 237 MB
+17:38:19 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 237 MB
+17:38:19 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 211 MB
+17:38:19 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 211 MB
+17:38:19 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 186 MB
+17:38:19 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 186 MB
+17:38:22 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 306 MB
+17:38:22 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 307 MB
+17:40:38 [Başlangıç] Managed: 1 MB | Process: 304 MB
+17:40:39 [Kapak hazırlandı] Managed: 1 MB | Process: 305 MB
+17:40:39 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 305 MB
+17:40:39 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 305 MB
+17:40:39 [Header/Footer hazırlandı] Managed: 1 MB | Process: 305 MB
+17:40:39 [Makine görselleri eklendi] Managed: 1 MB | Process: 283 MB
+17:40:39 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 263 MB
+17:40:41 [Bölge 1 - Risk 27 (Risk 1) eklendi] Managed: 2 MB | Process: 243 MB
+17:40:41 [Bölge 1 - Risk 28 (Risk 2) eklendi] Managed: 2 MB | Process: 243 MB
+17:40:41 [Bölge 1 - Risk 29 (Risk 3) eklendi] Managed: 2 MB | Process: 216 MB
+17:40:41 [Bölge 1 - Risk 30 (Risk 4) eklendi] Managed: 2 MB | Process: 191 MB
+17:40:41 [Bölge 1 - Risk 31 (Risk 5) eklendi] Managed: 2 MB | Process: 191 MB
+17:40:41 [Bölge 1 - Risk 32 (Risk 6) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 33 (Risk 7) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 34 (Risk 8) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 35 (Risk 9) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 36 (Risk 10) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 37 (Risk 11) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [Bölge 1 - Risk 38 (Risk 12) eklendi] Managed: 2 MB | Process: 189 MB
+17:40:41 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 189 MB
+17:40:43 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 301 MB
+17:40:43 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 301 MB
+11:22:15 [Başlangıç] Managed: 0 MB | Process: 180 MB
+11:22:15 [Kapak hazırlandı] Managed: 0 MB | Process: 189 MB
+11:22:15 [Revizyon Tablosu hazırlandı] Managed: 0 MB | Process: 189 MB
+11:22:15 [İncelenen Dökümanlar hazırlandı] Managed: 0 MB | Process: 190 MB
+11:22:15 [Header/Footer hazırlandı] Managed: 1 MB | Process: 190 MB
+11:22:15 [Makine görselleri eklendi] Managed: 1 MB | Process: 190 MB
+11:22:16 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 190 MB
+11:22:16 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 191 MB
+11:22:16 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 191 MB
+11:22:16 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 192 MB
+11:22:16 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 192 MB
+11:24:32 [Başlangıç] Managed: 1 MB | Process: 172 MB
+11:24:33 [Kapak hazırlandı] Managed: 1 MB | Process: 182 MB
+11:24:33 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 182 MB
+11:24:33 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 182 MB
+11:24:33 [Header/Footer hazırlandı] Managed: 2 MB | Process: 182 MB
+11:24:33 [Makine görselleri eklendi] Managed: 2 MB | Process: 182 MB
+11:24:33 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 182 MB
+11:24:33 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 183 MB
+11:24:33 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 183 MB
+11:24:33 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 184 MB
+11:24:33 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 184 MB
+11:34:32 [Başlangıç] Managed: 1 MB | Process: 147 MB
+11:34:33 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+11:34:33 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+11:34:33 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 156 MB
+11:34:33 [Header/Footer hazırlandı] Managed: 1 MB | Process: 156 MB
+11:34:33 [Makine görselleri eklendi] Managed: 1 MB | Process: 156 MB
+11:34:33 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 157 MB
+11:34:33 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 160 MB
+11:34:33 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 160 MB
+11:34:33 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 160 MB
+11:34:33 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 160 MB
+11:40:18 [Başlangıç] Managed: 1 MB | Process: 170 MB
+11:40:18 [Kapak hazırlandı] Managed: 1 MB | Process: 179 MB
+11:40:18 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 179 MB
+11:40:18 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 179 MB
+11:40:18 [Header/Footer hazırlandı] Managed: 2 MB | Process: 179 MB
+11:40:18 [Makine görselleri eklendi] Managed: 2 MB | Process: 179 MB
+11:40:18 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 180 MB
+11:40:18 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 181 MB
+11:40:18 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 181 MB
+11:40:18 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 181 MB
+11:40:18 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 181 MB
+11:41:20 [Başlangıç] Managed: 1 MB | Process: 186 MB
+11:41:21 [Kapak hazırlandı] Managed: 1 MB | Process: 186 MB
+11:41:21 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 186 MB
+11:41:21 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 186 MB
+11:41:21 [Header/Footer hazırlandı] Managed: 2 MB | Process: 186 MB
+11:41:21 [Makine görselleri eklendi] Managed: 2 MB | Process: 186 MB
+11:41:21 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 186 MB
+11:41:21 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 186 MB
+11:41:21 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 186 MB
+11:41:21 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 186 MB
+11:41:21 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 186 MB
+11:59:54 [Başlangıç] Managed: 1 MB | Process: 166 MB
+11:59:55 [Kapak hazırlandı] Managed: 1 MB | Process: 175 MB
+11:59:55 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 175 MB
+11:59:55 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 175 MB
+11:59:55 [Header/Footer hazırlandı] Managed: 2 MB | Process: 176 MB
+11:59:55 [Makine görselleri eklendi] Managed: 2 MB | Process: 176 MB
+11:59:55 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 176 MB
+11:59:55 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 177 MB
+11:59:55 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 177 MB
+11:59:55 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 177 MB
+11:59:55 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 177 MB
+12:07:10 [Başlangıç] Managed: 2 MB | Process: 188 MB
+12:07:10 [Kapak hazırlandı] Managed: 3 MB | Process: 196 MB
+12:07:10 [Revizyon Tablosu hazırlandı] Managed: 3 MB | Process: 196 MB
+12:07:10 [İncelenen Dökümanlar hazırlandı] Managed: 3 MB | Process: 196 MB
+12:07:10 [Header/Footer hazırlandı] Managed: 3 MB | Process: 197 MB
+12:07:10 [Makine görselleri eklendi] Managed: 3 MB | Process: 197 MB
+12:07:10 [Otomatik tablolar eklendi] Managed: 3 MB | Process: 194 MB
+12:07:11 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 3 MB | Process: 193 MB
+12:07:11 [AltChunk ile birleştirme başlıyor] Managed: 3 MB | Process: 193 MB
+12:07:11 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 3 MB | Process: 191 MB
+12:07:11 [Temp dosyalar silindi (İşlem bitti)] Managed: 3 MB | Process: 191 MB
+12:14:46 [Başlangıç] Managed: 1 MB | Process: 145 MB
+12:14:46 [Kapak hazırlandı] Managed: 1 MB | Process: 154 MB
+12:14:46 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 154 MB
+12:14:46 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 154 MB
+12:14:46 [Header/Footer hazırlandı] Managed: 1 MB | Process: 155 MB
+12:14:46 [Makine görselleri eklendi] Managed: 1 MB | Process: 155 MB
+12:14:46 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 155 MB
+12:14:46 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 158 MB
+12:14:46 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 158 MB
+12:14:47 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 158 MB
+12:14:47 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 158 MB
+12:15:18 [Başlangıç] Managed: 1 MB | Process: 166 MB
+12:15:18 [Kapak hazırlandı] Managed: 1 MB | Process: 166 MB
+12:15:18 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 166 MB
+12:15:18 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 166 MB
+12:15:18 [Header/Footer hazırlandı] Managed: 1 MB | Process: 166 MB
+12:15:18 [Makine görselleri eklendi] Managed: 1 MB | Process: 166 MB
+12:15:18 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 166 MB
+12:15:18 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 167 MB
+12:15:18 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 167 MB
+12:15:18 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 167 MB
+12:15:19 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 167 MB
+12:19:01 [Başlangıç] Managed: 1 MB | Process: 146 MB
+12:19:01 [Kapak hazırlandı] Managed: 1 MB | Process: 155 MB
+12:19:01 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 155 MB
+12:19:01 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 155 MB
+12:19:01 [Header/Footer hazırlandı] Managed: 1 MB | Process: 155 MB
+12:19:02 [Makine görselleri eklendi] Managed: 1 MB | Process: 155 MB
+12:19:02 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 156 MB
+12:19:02 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 159 MB
+12:19:02 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 159 MB
+12:19:02 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 159 MB
+12:19:02 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 159 MB
+12:20:20 [Başlangıç] Managed: 2 MB | Process: 180 MB
+12:20:20 [Kapak hazırlandı] Managed: 2 MB | Process: 178 MB
+12:20:20 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 178 MB
+12:20:20 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 178 MB
+12:20:20 [Header/Footer hazırlandı] Managed: 2 MB | Process: 179 MB
+12:20:20 [Makine görselleri eklendi] Managed: 2 MB | Process: 179 MB
+12:20:20 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 179 MB
+12:20:20 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 179 MB
+12:20:20 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 179 MB
+12:20:20 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 179 MB
+12:20:20 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 179 MB
+14:55:32 [Başlangıç] Managed: 1 MB | Process: 153 MB
+14:55:33 [Kapak hazırlandı] Managed: 1 MB | Process: 162 MB
+14:55:33 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 162 MB
+14:55:33 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 162 MB
+14:55:33 [Header/Footer hazırlandı] Managed: 1 MB | Process: 162 MB
+14:55:33 [Makine görselleri eklendi] Managed: 1 MB | Process: 162 MB
+14:55:33 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 163 MB
+14:55:33 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 166 MB
+14:55:33 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 166 MB
+14:55:45 [Başlangıç] Managed: 1 MB | Process: 166 MB
+14:55:45 [Kapak hazırlandı] Managed: 1 MB | Process: 167 MB
+14:55:45 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 167 MB
+14:55:45 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 167 MB
+14:55:45 [Header/Footer hazırlandı] Managed: 1 MB | Process: 167 MB
+14:55:45 [Makine görselleri eklendi] Managed: 1 MB | Process: 167 MB
+14:55:45 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 167 MB
+14:55:45 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 167 MB
+14:55:45 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 167 MB
+14:55:45 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 168 MB
+14:55:45 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 168 MB
+15:03:42 [Başlangıç] Managed: 1 MB | Process: 149 MB
+15:03:42 [Kapak hazırlandı] Managed: 1 MB | Process: 157 MB
+15:03:42 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 158 MB
+15:03:42 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 158 MB
+15:03:43 [Header/Footer hazırlandı] Managed: 1 MB | Process: 158 MB
+15:03:43 [Makine görselleri eklendi] Managed: 1 MB | Process: 158 MB
+15:03:43 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 158 MB
+15:03:43 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 161 MB
+15:03:43 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 161 MB
+15:03:43 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 162 MB
+15:03:43 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 162 MB
+15:05:10 [Başlangıç] Managed: 1 MB | Process: 170 MB
+15:05:10 [Kapak hazırlandı] Managed: 1 MB | Process: 170 MB
+15:05:10 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 170 MB
+15:05:10 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 170 MB
+15:05:10 [Header/Footer hazırlandı] Managed: 1 MB | Process: 170 MB
+15:05:10 [Makine görselleri eklendi] Managed: 1 MB | Process: 171 MB
+15:05:10 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 171 MB
+15:05:10 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 170 MB
+15:05:10 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 170 MB
+15:05:11 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 170 MB
+15:05:11 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 170 MB
+17:26:46 [Başlangıç] Managed: 1 MB | Process: 147 MB
+17:26:47 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+17:26:47 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+17:26:47 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+17:26:47 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:26:47 [Header/Footer hazırlandı] Managed: 2 MB | Process: 157 MB
+17:26:47 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 158 MB
+17:26:47 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 161 MB
+17:26:47 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 161 MB
+17:26:47 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 161 MB
+17:26:47 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 161 MB
+17:30:24 [Başlangıç] Managed: 1 MB | Process: 146 MB
+17:30:24 [Header/Footer hazırlandı] Managed: 1 MB | Process: 154 MB
+17:30:24 [Kapak hazırlandı] Managed: 1 MB | Process: 155 MB
+17:30:24 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+17:30:24 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+17:30:24 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:30:24 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 157 MB
+17:30:25 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 160 MB
+17:30:25 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 160 MB
+17:30:25 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 161 MB
+17:30:25 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 161 MB
+17:38:24 [Başlangıç] Managed: 1 MB | Process: 146 MB
+17:38:25 [Kapak hazırlandı] Managed: 1 MB | Process: 155 MB
+17:38:25 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+17:38:25 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+17:38:25 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:38:25 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 157 MB
+17:38:25 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 160 MB
+17:38:25 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 160 MB
+17:38:25 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 161 MB
+17:38:25 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 161 MB
+17:39:31 [Başlangıç] Managed: 1 MB | Process: 163 MB
+17:39:31 [Kapak hazırlandı] Managed: 1 MB | Process: 163 MB
+17:39:31 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 163 MB
+17:39:31 [Makine görselleri eklendi] Managed: 1 MB | Process: 164 MB
+17:39:31 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 164 MB
+17:39:31 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 164 MB
+17:39:31 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 164 MB
+17:39:31 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 165 MB
+17:39:31 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 165 MB
+17:39:31 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 165 MB
+17:40:42 [Başlangıç] Managed: 1 MB | Process: 172 MB
+17:40:42 [Kapak hazırlandı] Managed: 1 MB | Process: 172 MB
+17:40:42 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 172 MB
+17:40:42 [Makine görselleri eklendi] Managed: 1 MB | Process: 172 MB
+17:40:42 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 172 MB
+17:40:42 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 172 MB
+17:40:42 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 172 MB
+17:40:42 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 172 MB
+17:40:42 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 172 MB
+17:40:42 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 172 MB
+17:51:05 [Başlangıç] Managed: 1 MB | Process: 147 MB
+17:51:05 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+17:51:05 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+17:51:05 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+17:51:05 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:51:05 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 157 MB
+17:51:06 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 160 MB
+17:51:06 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 160 MB
+17:51:06 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 160 MB
+17:51:06 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 160 MB
+17:59:41 [Başlangıç] Managed: 1 MB | Process: 147 MB
+17:59:41 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+17:59:41 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+17:59:41 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+17:59:41 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+17:59:41 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 157 MB
+17:59:42 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 160 MB
+17:59:42 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 160 MB
+17:59:42 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 160 MB
+17:59:42 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 160 MB
+18:03:54 [Başlangıç] Managed: 1 MB | Process: 147 MB
+18:03:55 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+18:03:55 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+18:03:55 [Makine görselleri eklendi] Managed: 1 MB | Process: 158 MB
+18:03:55 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 158 MB
+18:03:55 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 158 MB
+18:03:55 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 162 MB
+18:03:55 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 162 MB
+18:03:55 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 162 MB
+18:03:55 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 162 MB
+18:10:00 [Başlangıç] Managed: 1 MB | Process: 147 MB
+18:10:01 [Kapak hazırlandı] Managed: 1 MB | Process: 156 MB
+18:10:01 [Revizyon Tablosu hazırlandı] Managed: 1 MB | Process: 156 MB
+18:10:01 [Makine görselleri eklendi] Managed: 1 MB | Process: 157 MB
+18:10:01 [İncelenen Dökümanlar hazırlandı] Managed: 1 MB | Process: 157 MB
+18:10:01 [Otomatik tablolar eklendi] Managed: 1 MB | Process: 157 MB
+18:10:01 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 1 MB | Process: 160 MB
+18:10:01 [AltChunk ile birleştirme başlıyor] Managed: 1 MB | Process: 160 MB
+18:10:01 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 1 MB | Process: 160 MB
+18:10:01 [Temp dosyalar silindi (İşlem bitti)] Managed: 1 MB | Process: 160 MB
+08:23:08 [Başlangıç] Managed: 2 MB | Process: 185 MB
+08:23:08 [Kapak hazırlandı] Managed: 2 MB | Process: 194 MB
+08:23:08 [Revizyon Tablosu hazırlandı] Managed: 2 MB | Process: 194 MB
+08:23:08 [Makine görselleri eklendi] Managed: 2 MB | Process: 197 MB
+08:23:08 [İncelenen Dökümanlar hazırlandı] Managed: 2 MB | Process: 197 MB
+08:23:08 [Otomatik tablolar eklendi] Managed: 2 MB | Process: 197 MB
+08:23:08 [Bölge 1 - Risk 1 (Risk 1) eklendi] Managed: 2 MB | Process: 198 MB
+08:23:09 [Bölge 2 - Risk 2 (Risk 1) eklendi] Managed: 2 MB | Process: 198 MB
+08:23:09 [Bölge 3 - Risk 3 (Risk 1) eklendi] Managed: 2 MB | Process: 198 MB
+08:23:09 [Bölge 4 - Risk 4 (Risk 1) eklendi] Managed: 2 MB | Process: 198 MB
+08:23:09 [AltChunk ile birleştirme başlıyor] Managed: 2 MB | Process: 198 MB
+08:23:09 [AltChunk ile birleştirme bitti (Rapor tamamlandı)] Managed: 2 MB | Process: 197 MB
+08:23:09 [Temp dosyalar silindi (İşlem bitti)] Managed: 2 MB | Process: 197 MB

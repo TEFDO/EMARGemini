@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAyarlar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMakineKayit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMakineler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMakineLimitleri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMusteriKayit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMusteriler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProjeKayit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProjeler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProjeyeMakineEkle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRapor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRaporKayit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRaporlar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRaporTuruSec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRASCDetay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucDokuman.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucGenel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucKontrolSistemi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucMakine.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucMakineGorselleri.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucRevizyon.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTemsilci.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
